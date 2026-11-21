@@ -1,0 +1,13 @@
+name: "Textmagic"
+description: "Textmagic is a bulk SMS gateway for marketing, notifications, and two-way messaging via web app and API. It targets small and medium businesses with prepaid and subscription pricing."
+source_url: "https://www.textmagic.com/"
+category: "Bulk SMS Gateways"
+tags:
+  - "api"
+  - "freemium"
+  - "paid"
+  - "bulk-sms"
+  - "marketing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.textmagic.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.textmagic.com/>\n"
+updated_at: "2026-11-21 01:44"

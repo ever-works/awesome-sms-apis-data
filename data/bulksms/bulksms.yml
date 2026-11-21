@@ -1,0 +1,13 @@
+name: "BulkSMS"
+description: "BulkSMS is a global SMS gateway for marketing and business messaging via API and web interface. It serves enterprises and developers with prepaid pricing and international coverage."
+source_url: "https://www.bulksms.com/"
+category: "Bulk SMS Gateways"
+tags:
+  - "api"
+  - "freemium"
+  - "paid"
+  - "bulk-sms"
+  - "regional"
+icon_url: "https://icons.duckduckgo.com/ip3/www.bulksms.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.bulksms.com/>\n"
+updated_at: "2026-11-21 01:44"

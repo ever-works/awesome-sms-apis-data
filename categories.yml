@@ -1,0 +1,12 @@
+- id: cpaas-and-sms-apis
+  name: "CPaaS & SMS APIs"
+- id: bulk-sms-gateways
+  name: "Bulk SMS Gateways"
+- id: verification-and-otp-apis
+  name: "Verification & OTP APIs"
+- id: whatsapp-and-rcs-apis
+  name: "WhatsApp & RCS APIs"
+- id: open-source-sms-gateways
+  name: "Open-Source SMS Gateways"
+- id: regional-providers
+  name: "Regional Providers"

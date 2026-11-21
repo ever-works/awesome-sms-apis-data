@@ -1,0 +1,13 @@
+name: "ClickSend"
+description: "ClickSend offers SMS, email, fax, and postcard APIs for business communications and marketing. It provides a web platform and developer APIs with prepaid pricing."
+source_url: "https://clicksend.com/"
+category: "Bulk SMS Gateways"
+tags:
+  - "api"
+  - "freemium"
+  - "paid"
+  - "bulk-sms"
+  - "marketing"
+icon_url: "https://icons.duckduckgo.com/ip3/clicksend.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://clicksend.com/>\n"
+updated_at: "2026-11-21 01:44"

@@ -1,0 +1,13 @@
+name: "SlickText"
+description: "SlickText is an SMS marketing platform for list growth, automation, and two-way texting via web app and API. It serves small businesses with subscription pricing."
+source_url: "https://slicktext.com/"
+category: "Bulk SMS Gateways"
+tags:
+  - "api"
+  - "freemium"
+  - "paid"
+  - "bulk-sms"
+  - "marketing"
+icon_url: "https://icons.duckduckgo.com/ip3/slicktext.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://slicktext.com/>\n"
+updated_at: "2026-11-21 01:44"

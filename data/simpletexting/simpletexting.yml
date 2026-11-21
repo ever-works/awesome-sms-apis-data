@@ -1,0 +1,13 @@
+name: "SimpleTexting"
+description: "SimpleTexting is a bulk SMS platform for marketing, automation, and two-way texting via web app and API. It serves small businesses with subscription and pay-as-you-go plans."
+source_url: "https://simpletexting.com/"
+category: "Bulk SMS Gateways"
+tags:
+  - "api"
+  - "freemium"
+  - "paid"
+  - "bulk-sms"
+  - "marketing"
+icon_url: "https://icons.duckduckgo.com/ip3/simpletexting.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://simpletexting.com/>\n"
+updated_at: "2026-11-21 01:44"

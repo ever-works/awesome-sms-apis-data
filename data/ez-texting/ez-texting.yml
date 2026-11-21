@@ -1,0 +1,13 @@
+name: "EZ Texting"
+description: "EZ Texting offers SMS marketing and mass texting tools for businesses through a web platform and API. It provides contact management, automation, and subscription pricing."
+source_url: "https://eztexting.com/"
+category: "Bulk SMS Gateways"
+tags:
+  - "api"
+  - "freemium"
+  - "paid"
+  - "bulk-sms"
+  - "marketing"
+icon_url: "https://icons.duckduckgo.com/ip3/eztexting.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://eztexting.com/>\n"
+updated_at: "2026-11-21 01:44"

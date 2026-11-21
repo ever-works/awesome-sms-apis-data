@@ -1,0 +1,13 @@
+name: "PlaySMS"
+description: "PlaySMS is an open-source SMS gateway for managing contacts, sending messages, and handling inbound SMS via web interface. It is self-hosted and supports multiple gateways under the GNU GPL."
+source_url: "https://playsms.org/"
+category: "Open-Source SMS Gateways"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "sms-gateway"
+  - "web-interface"
+icon_url: "https://icons.duckduckgo.com/ip3/playsms.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://playsms.org/>\n- Repository: <https://github.com/antonraharja/playSMS>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 01:44"

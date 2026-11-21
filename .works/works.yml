@@ -1,0 +1,31 @@
+company_name: "Awesome SMS APIs"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome SMS APIs"
+initial_prompt: "A curated directory of SMS, OTP-verification and CPaaS messaging APIs and gateways. Include products such as Twilio, Vonage, Plivo, Sinch, Telnyx, Infobip, Bird, Bandwidth, Textmagic, ClickSend, Africa's Talking, textbee, plus other notable commercial and open-source options. Categories: CPaaS & SMS APIs, Bulk SMS Gateways, Verification & OTP APIs, WhatsApp & RCS APIs, Open-Source SMS Gateways, Regional Providers. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-sms-apis-website"
+company_website: "https://sms-apis.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

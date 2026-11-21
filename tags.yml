@@ -1,0 +1,50 @@
+- id: api
+  name: "API"
+- id: freemium
+  name: "Freemium"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: cpaas
+  name: "CPaaS"
+- id: sms
+  name: "SMS"
+- id: voice
+  name: "Voice"
+- id: email
+  name: "Email"
+- id: whatsapp
+  name: "WhatsApp"
+- id: bulk-sms
+  name: "Bulk SMS"
+- id: marketing
+  name: "Marketing"
+- id: regional
+  name: "Regional"
+- id: africa
+  name: "Africa"
+- id: ussd
+  name: "USSD"
+- id: rcs
+  name: "RCS"
+- id: mms
+  name: "MMS"
+- id: payments
+  name: "Payments"
+- id: europe
+  name: "Europe"
+- id: free-plan
+  name: "Free Plan"
+- id: otp
+  name: "OTP"
+- id: verification
+  name: "Verification"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: sms-gateway
+  name: "SMS Gateway"
+- id: web-interface
+  name: "Web Interface"
