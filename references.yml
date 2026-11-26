@@ -1,14 +1,83 @@
-- url: "https://zapier.com/blog/best-sms-app/"
-  title: "Zapier — The 9 best SMS marketing software in 2026"
-- url: "https://www.softwaresuggest.com/bulk-sms-software"
-  title: "SoftwareSuggest — Bulk SMS Software"
-- url: "https://www.softwaresuggest.com/sms-marketing-software"
-  title: "SoftwareSuggest — SMS Marketing software"
-- url: "https://github.com/ripienaar/free-for-dev#international-mobile-number-verification-api-and-sdk"
-  title: "free-for-dev — section “International Mobile Number Verification API and SDK”"
-- url: "https://raw.githubusercontent.com/FancyFurret/awesome-sms/HEAD/README.md"
-  title: "GitHub list — FancyFurret/awesome-sms (4★, stale)"
-- url: "https://github.com/topics/sms"
-  title: "GitHub topic — `sms` (6,233 repos)"
-- url: "https://github.com/topics/sms-gateway"
-  title: "GitHub topic — `sms-gateway` (815 repos)"
+- url: https://africastalking.com/sms
+  normalized_url: https://africastalking.com/sms
+  first_seen_at: 2026-11-26T11:58:06.076Z
+  last_attempted_at: 2026-11-26T11:58:06.076Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL: https://africastalking.com/sms"
+- url: https://github.com/ripienaar/free-for-dev#international-mobile-number-verification-api-and-sdk
+  title: free-for-dev — section “International Mobile Number Verification API and SDK”
+  normalized_url: https://github.com/ripienaar/free-for-dev
+- url: https://github.com/topics/sms
+  normalized_url: https://github.com/topics/sms
+  first_seen_at: 2026-11-26T11:52:36.205Z
+  last_attempted_at: 2026-11-26T11:52:36.205Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/sms"
+- url: https://github.com/topics/sms-gateway
+  normalized_url: https://github.com/topics/sms-gateway
+  first_seen_at: 2026-11-26T11:56:42.663Z
+  last_attempted_at: 2026-11-26T11:56:42.663Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/sms-gateway"
+- url: https://raw.githubusercontent.com/FancyFurret/awesome-sms/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/FancyFurret/awesome-sms/HEAD/README.md
+  first_seen_at: 2026-11-26T11:51:51.898Z
+  last_attempted_at: 2026-11-26T11:51:51.898Z
+  last_success_at: 2026-11-26T11:51:51.898Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://textbee.dev
+  normalized_url: https://textbee.dev/
+  first_seen_at: 2026-11-26T11:58:39.669Z
+  last_attempted_at: 2026-11-26T11:58:39.669Z
+  last_success_at: 2026-11-26T11:58:39.669Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.clicksend.com/us/sms/sms-gateway-api
+  normalized_url: https://www.clicksend.com/us/sms/sms-gateway-api
+  first_seen_at: 2026-11-26T11:58:58.609Z
+  last_attempted_at: 2026-11-26T11:58:58.609Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.clicksend.com/us/sms/sms-gateway-api"
+- url: https://www.plivo.com/blog/best-sms-api-provider
+  normalized_url: https://www.plivo.com/blog/best-sms-api-provider
+  first_seen_at: 2026-11-26T11:57:11.143Z
+  last_attempted_at: 2026-11-26T11:57:11.143Z
+  last_success_at: 2026-11-26T11:57:11.143Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/bulk-sms-software
+  title: SoftwareSuggest — Bulk SMS Software
+  normalized_url: https://www.softwaresuggest.com/bulk-sms-software
+- url: https://www.softwaresuggest.com/sms-marketing-software
+  title: SoftwareSuggest — SMS Marketing software
+  normalized_url: https://www.softwaresuggest.com/sms-marketing-software
+- url: https://www.suprsend.com/post/best-sms-api-providers
+  normalized_url: https://www.suprsend.com/post/best-sms-api-providers
+  first_seen_at: 2026-11-26T11:57:27.487Z
+  last_attempted_at: 2026-11-26T11:57:27.487Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.suprsend.com/post/best-sms-api-providers"
+- url: https://zapier.com/blog/best-sms-app/
+  title: Zapier — The 9 best SMS marketing software in 2026
+  normalized_url: https://zapier.com/blog/best-sms-app
