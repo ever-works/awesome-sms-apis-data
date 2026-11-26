@@ -1,0 +1,31 @@
+name: AwesomeSMS
+description: AwesomeSMS is an open-source project that allows users to text from
+  their computer. Planned features include end-to-end encryption, multiple user
+  support, and a CLI client. It is free to use and open source.
+source_url: https://github.com/FancyFurret/awesome-sms
+category: Open-Source SMS Gateways
+tags:
+  - open-source
+  - free-plan
+featured: false
+markdown: |-
+  ## Overview
+
+  AwesomeSMS allows you to text from your computer.
+
+  ## Planned Features
+
+  - End to end encryption
+  - Multiple user support
+  - CLI client
+
+  ## Pricing Model
+
+  Free and open source.
+
+  ## License
+
+  Open source.
+brand: null
+images: []
+updated_at: 2026-11-26 12:01

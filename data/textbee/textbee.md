@@ -1,0 +1,33 @@
+## Overview
+
+textbee is an open-source SMS gateway API that turns your Android phone into an SMS gateway. No per-message fees, no new hardware, and no carrier contracts. Send and receive SMS from your own number, or send and receive SMS from your app with one REST API.
+
+## Features
+
+- Turn your Android phone into an SMS gateway
+- Send and receive SMS via a simple REST API
+- Webhooks for inbound messages
+- Bulk messaging support
+- Unlimited API keys per account
+- Rate limit: 60 requests per minute
+- Works with Node, Python, cURL, or anything that speaks HTTP
+- OTP verification and two-way messaging
+- Self-hostable; source code available on GitHub
+- Open source
+
+## Pricing
+
+- **Free tier forever**: 300 messages per month, no credit card required
+- **Pro**: starts at $8.33/month, billed yearly (save 44% with annual billing, 5 months free)
+- Flat pricing with no per-message fees
+- Cancel anytime
+
+## Deployment
+
+Cloud-hosted dashboard with self-hostable open-source gateway. Install the free, open-source textbee app on any Android phone, generate an API key from the dashboard, scan the QR code to connect, and start sending.
+
+## Integrations
+
+- REST API (POST /send-sms)
+- Webhooks for inbound SMS
+- Compatible with any HTTP client (Node, Python, cURL, etc.)
