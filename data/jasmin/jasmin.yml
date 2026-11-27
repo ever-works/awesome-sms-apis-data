@@ -1,0 +1,70 @@
+name: Jasmin
+description: Jasmin is a complete open source SMS Gateway written in Python with
+  enterprise-class features including SMPP Client/Server, HTTP Client/Server,
+  AMQP-based store-and-forward queuing, Redis-backed DLR tracking and billing,
+  advanced message routing and filtering, Unicode support, binary SMS, and
+  concatenated SMS. It is designed for high traffic loads and full in-memory
+  execution, built on Twisted matrix. Released under the Apache License Version
+  2.0.
+source_url: https://github.com/jookies/jasmin
+category: Open Source SMS Gateways
+tags:
+  - Open Source
+  - Self-Hosted
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Jasmin is an open source SMS Gateway written in Python and based on Twisted
+  matrix, an event-driven networking engine. It relies on message brokers using
+  AMQP for store-and-forward mechanisms and Redis for in-memory DLR tracking and
+  billing.
+
+
+  ## Key Features
+
+
+  - SMPP Client and Server
+
+  - HTTP Client and Server
+
+  - Console-based configuration with no service restart required
+
+  - AMQP broker for store-and-forward and queuing
+
+  - Redis for in-memory DLR tracking and billing
+
+  - Advanced message routing and filtering: Simple, Roundrobin, Failover, HLR
+  lookup, Leastcost
+
+  - Unicode (UTF-8) support for multilingual SMS
+
+  - Specialized/binary SMS: mono Ringtones, WAP Push, Vcards
+
+  - Concatenated SMS strings (long SMS)
+
+  - Telnet connector
+
+  - Kubernetes deployment support
+
+  - Experimental Heroku deployment
+
+
+  ## Deployment
+
+
+  Self-hosted. Installation steps are documented to get Jasmin up and running
+  with a simple SMS sending scenario. Documentation is available at
+  http://docs.jasminsms.com.
+
+
+  ## Pricing
+
+
+  Free and open source under the Apache License Version 2.0.
+brand: Jasmin
+brand_logo_url: https://github.com/jookies/jasmin/raw/main/misc/logo.png
+images: []
+updated_at: 2026-11-27 03:54

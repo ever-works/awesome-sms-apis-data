@@ -1,0 +1,56 @@
+name: Brevo
+description: Brevo enables SMS and email marketing from a single platform. All
+  actions are GDPR compliant and come with built-in CRM operations. This bulk
+  SMS software can create targeted pages and help businesses run effortless
+  marketing campaigns.
+source_url: https://www.brevo.com/
+category: CPaaS & SMS APIs
+tags:
+  - API
+  - Freemium
+  - Paid
+markdown: >-
+  ## Overview
+
+
+  Brevo (formerly Sendinblue) is a marketing platform that combines SMS and
+  email marketing with built-in CRM operations. All actions are GDPR compliant,
+  and the platform can create targeted pages for effortless marketing.
+
+
+  ## Features
+
+
+  - Dynamic Content
+
+  - Deliverability Optimization
+
+  - Custom Branding
+
+  - Signup Forms
+
+  - Segmentation
+
+  - Time Tracking
+
+  - A/B Testing
+
+  - Multi User Accounts
+
+
+  ## Pricing
+
+
+  - Free: $0 per month
+
+  - Starter: $7 per month
+
+  - Business: $15 per month
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS platform.
+brand: Brevo
+updated_at: 2026-11-27 03:54

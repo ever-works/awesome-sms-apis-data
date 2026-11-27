@@ -1,0 +1,62 @@
+name: Exotel
+description: Exotel is a cloud telephony and bulk SMS platform offering SMS
+  authentication and verification codes, phone number masking, virtual numbers,
+  IVR, call conferencing, and API integration. It serves startups, SMBs,
+  mid-market, and enterprises across 190+ countries with a paid subscription
+  model starting at $111 per 3 months.
+source_url: https://www.exotel.com/
+category: CPaaS & SMS APIs
+tags:
+  - API
+  - Paid
+  - Enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Exotel is a cloud telephony and bulk SMS platform that enables businesses to
+  send authentication and verification codes via SMS, mask phone numbers, and
+  manage voice communications.
+
+
+  ## Key Features
+
+
+  - SMS authentication and verification codes
+
+  - Phone number masking
+
+  - Virtual numbers
+
+  - API integration
+
+  - Multi-level IVR
+
+  - Call conferencing
+
+  - Call masking
+
+  - IVR system
+
+  - Custom greetings
+
+  - Call analytics
+
+
+  ## Pricing
+
+
+  - Dabbler: $111 per 3 months
+
+  - Believer: $222 per 12 months
+
+  - Influencer: $550 per 12 months
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS platform.
+brand: Exotel
+updated_at: 2026-11-27 03:54

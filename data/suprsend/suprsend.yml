@@ -1,0 +1,68 @@
+name: SuprSend
+description: SuprSend is a scalable notification infrastructure for sending
+  workflow-based transactional notifications, running CRONs, and engagement
+  campaigns. It includes every notification API channel such as SMS, Slack,
+  WhatsApp, Email, Push, and App Inbox, enabling developers to deliver timely
+  and targeted notifications across multiple channels.
+source_url: https://suprsend.com
+category: CPaaS & SMS APIs
+tags:
+  - API
+  - Freemium
+  - Paid
+  - Multi Channel
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SuprSend offers a scalable notification infrastructure for sending
+  workflow-based transactional notifications, running CRONs, and engagement
+  campaigns. Every notification API channel is included (SMS, Slack, WhatsApp,
+  Email, Push, and App Inbox).
+
+
+  ## Target Audience
+
+
+  - Startups
+
+  - SMBs
+
+  - Mid-Market
+
+  - Enterprises
+
+
+  ## Features
+
+
+  - Automated Campaigns
+
+  - Reporting And Analytics
+
+  - User Engagement
+
+  - Delivery Optimization
+
+  - Email Notifications
+
+  - Multi Channel
+
+  - In App Messaging
+
+  - Push Notifications
+
+
+  ## Pricing
+
+
+  - Free Plan: $0 Per Month
+
+  - Growth Plan: $99 Per Month
+
+  - Enterprise Plan: $200 Per Month
+brand: SuprSend
+brand_logo_url: https://suprsend.com/logo.svg
+images: []
+updated_at: 2026-11-27 03:54

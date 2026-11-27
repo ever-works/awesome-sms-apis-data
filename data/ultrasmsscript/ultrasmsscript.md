@@ -1,0 +1,33 @@
+## Overview
+
+UltraSMSScript is web-based group text and SMS marketing campaign software. It can be installed on your own server with a one-time license fee, or hosted by the vendor with monthly plans. The platform is gateway-agnostic and fully white-labelled, letting users connect their own SMS gateway (such as Twilio) under their own domain and pay wholesale per-message rates instead of reseller markups.
+
+## Features
+
+- Longcodes
+- Keyword Management
+- API Integration
+- MMS Support
+- Personalized Messages
+- Reporting and Analytics
+- SMS Templates
+- Message History
+- Self-hosted installation option
+- Gateway-agnostic connectivity
+- White-label branding
+
+## Deployment
+
+- Self-hosted: Install on your own server (one-time license fee)
+- Cloud-hosted: Vendor-managed monthly hosted plans
+
+## Pricing
+
+- Level 4: $1,997 one-time fee (self-hosted)
+- ULTRA: $4,997 one-time fee (self-hosted)
+- Level 1 Hosted: $47 per month
+- Level 2 Hosted: $67 per month
+
+## Target Audience
+
+Startups, SMBs, mid-market, and enterprises.

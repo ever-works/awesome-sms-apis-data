@@ -1,0 +1,58 @@
+name: SendPulse
+description: SendPulse is a multi-channel marketing platform that helps
+  businesses send emails and SMS directly to customers' phones, trigger
+  emails/SMS for projects, and send personalized Facebook messages. It includes
+  international SMS, contact management, SMS automation, SMS analytics, short
+  links, Unicode support, and opt-out management. Pricing includes a Free plan
+  at $0/month, Standard at $8/month, and Pro at $10/month.
+source_url: https://sendpulse.com/
+category: CPaaS & SMS APIs
+tags:
+  - multi-channel
+  - freemium
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SendPulse is a marketing platform enabling businesses to send emails, SMS, and
+  Facebook messages to customers.
+
+
+  ## Features
+
+
+  - International SMS
+
+  - Contact Management
+
+  - SMS Automation
+
+  - SMS Marketing
+
+  - SMS Analytics
+
+  - Short Links
+
+  - Unicode Support
+
+  - Opt Out Management
+
+
+  ## Pricing
+
+
+  - Free: $0/month
+
+  - Standard: $8/month
+
+  - Pro: $10/month
+
+
+  ## Deployment
+
+
+  Cloud-based (SaaS)
+brand: SendPulse
+updated_at: 2026-11-27 03:54

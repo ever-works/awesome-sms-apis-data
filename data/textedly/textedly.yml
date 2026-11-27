@@ -1,0 +1,40 @@
+name: Textedly
+description: Textedly is a powerful SMS marketing tool that simplifies mass
+  texting. It offers automated messaging, analytics, and customizable templates
+  for customer outreach and sales. Pricing includes a Free plan at $0/month,
+  Plus at $25/month, Enterprise at $40/month, and Elite at $55/month.
+source_url: https://textedly.com/
+category: Bulk SMS Gateways
+tags:
+  - bulk-sms
+  - freemium
+  - marketing
+featured: false
+markdown: |-
+  ## Overview
+
+  Textedly is an SMS marketing tool that simplifies mass texting for businesses.
+
+  ## Features
+
+  - Opt In Management
+  - Drip Campaigns
+  - Reporting And Analytics
+  - Message History
+  - Two Way Messaging
+  - API Integration
+  - Compliance Tools
+  - Personalization
+
+  ## Pricing
+
+  - Free: $0/month
+  - Plus: $25/month
+  - Enterprise: $40/month
+  - Elite: $55/month
+
+  ## Deployment
+
+  Cloud-based (SaaS)
+brand: Textedly
+updated_at: 2026-11-27 03:54

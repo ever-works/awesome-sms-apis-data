@@ -1,0 +1,57 @@
+name: Klaviyo
+description: Klaviyo empowers businesses to create smarter digital relationships
+  by transforming customer data into meaningful, impactful experiences. From
+  email and SMS to web interactions and reviews, Klaviyo makes it easy for B2C
+  brands to engage customers at every touchpoint. Trusted by over 151,000
+  businesses, Klaviyo helps businesses send SMS marketing campaigns alongside
+  email.
+source_url: https://www.klaviyo.com/
+category: CPaaS & SMS APIs
+tags:
+  - API
+  - Freemium
+  - Paid
+markdown: >-
+  ## Overview
+
+
+  Klaviyo is a customer data and marketing platform that enables B2C brands to
+  engage customers across email, SMS, web interactions, and reviews. It
+  transforms customer data into targeted campaigns and is trusted by over
+  151,000 businesses.
+
+
+  ## Features
+
+
+  - Dynamic Content
+
+  - Email Campaigns
+
+  - SMS Marketing
+
+  - Personalization
+
+  - Reporting And Analytics
+
+  - Signup Forms
+
+  - Segmentation
+
+  - Automation
+
+
+  ## Pricing
+
+
+  - Free: $0 per month
+
+  - Email: $20 per month
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS platform.
+brand: Klaviyo
+updated_at: 2026-11-27 03:54
