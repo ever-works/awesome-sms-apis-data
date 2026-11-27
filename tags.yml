@@ -17,7 +17,7 @@
 - id: whatsapp
   name: WhatsApp
 - id: bulk-sms
-  name: Bulk SMS
+  name: Bulk Sms
 - id: marketing
   name: Marketing
 - id: regional
@@ -48,3 +48,29 @@
   name: SMS Gateway
 - id: web-interface
   name: Web Interface
+- id: email-marketing
+  name: Email Marketing
+- id: ecommerce
+  name: ECommerce
+- id: crm
+  name: CRM
+- id: cloud
+  name: Cloud
+- id: marketing-automation
+  name: Marketing Automation
+- id: whatsapp-marketing
+  name: WhatsApp Marketing
+- id: sales
+  name: Sales
+- id: multi-channel
+  name: Multi Channel
+- id: india
+  name: India
+- id: ai-powered
+  name: AI Powered
+- id: api-integration
+  name: API Integration
+- id: international-messaging
+  name: International Messaging
+- id: pay-as-you-go
+  name: Pay As You Go

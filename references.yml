@@ -7,9 +7,26 @@
   pipeline: agent-pipeline
   provider: Tavily
   error: "No items retrieved from URL: https://africastalking.com/sms"
+- url: https://github.com/jookies/jasmin
+  normalized_url: https://github.com/jookies/jasmin
+  first_seen_at: 2026-11-27T03:53:39.817Z
+  last_attempted_at: 2026-11-27T03:53:39.817Z
+  last_success_at: 2026-11-27T03:53:39.817Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://github.com/ripienaar/free-for-dev#international-mobile-number-verification-api-and-sdk
   title: free-for-dev — section “International Mobile Number Verification API and SDK”
   normalized_url: https://github.com/ripienaar/free-for-dev
+- url: https://github.com/textbee/textbee
+  normalized_url: https://github.com/textbee/textbee
+  first_seen_at: 2026-11-27T03:53:22.049Z
+  last_attempted_at: 2026-11-27T03:53:22.049Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/textbee/textbee"
 - url: https://github.com/topics/sms
   normalized_url: https://github.com/topics/sms
   first_seen_at: 2026-11-26T11:52:36.205Z
@@ -54,6 +71,14 @@
   provider: Local (Readability)
   error: "No items retrieved from URL:
     https://www.clicksend.com/us/sms/sms-gateway-api"
+- url: https://www.one-ping.com/alternatives/sms-api
+  normalized_url: https://www.one-ping.com/alternatives/sms-api
+  first_seen_at: 2026-11-27T03:52:32.393Z
+  last_attempted_at: 2026-11-27T03:52:32.393Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Processing failed for URL: https://www.one-ping.com/alternatives/sms-api"
 - url: https://www.plivo.com/blog/best-sms-api-provider
   normalized_url: https://www.plivo.com/blog/best-sms-api-provider
   first_seen_at: 2026-11-26T11:57:11.143Z
@@ -63,11 +88,21 @@
   items_created: 1
   pipeline: agent-pipeline
 - url: https://www.softwaresuggest.com/bulk-sms-software
-  title: SoftwareSuggest — Bulk SMS Software
   normalized_url: https://www.softwaresuggest.com/bulk-sms-software
+  first_seen_at: 2026-11-27T03:47:17.936Z
+  last_attempted_at: 2026-11-27T03:47:17.936Z
+  last_success_at: 2026-11-27T03:47:17.936Z
+  status: success
+  items_created: 9
+  pipeline: agent-pipeline
 - url: https://www.softwaresuggest.com/sms-marketing-software
-  title: SoftwareSuggest — SMS Marketing software
   normalized_url: https://www.softwaresuggest.com/sms-marketing-software
+  first_seen_at: 2026-11-27T03:52:04.101Z
+  last_attempted_at: 2026-11-27T03:52:04.101Z
+  last_success_at: 2026-11-27T03:52:04.101Z
+  status: success
+  items_created: 10
+  pipeline: agent-pipeline
 - url: https://www.suprsend.com/post/best-sms-api-providers
   normalized_url: https://www.suprsend.com/post/best-sms-api-providers
   first_seen_at: 2026-11-26T11:57:27.487Z
@@ -78,6 +113,21 @@
   provider: Local (Readability)
   error: "No items retrieved from URL:
     https://www.suprsend.com/post/best-sms-api-providers"
+- url: https://www.textla.com/post/twilio-alternatives
+  normalized_url: https://www.textla.com/post/twilio-alternatives
+  first_seen_at: 2026-11-27T03:53:00.788Z
+  last_attempted_at: 2026-11-27T03:53:00.788Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.textla.com/post/twilio-alternatives"
 - url: https://zapier.com/blog/best-sms-app/
-  title: Zapier — The 9 best SMS marketing software in 2026
   normalized_url: https://zapier.com/blog/best-sms-app
+  first_seen_at: 2026-11-27T03:43:36.391Z
+  last_attempted_at: 2026-11-27T03:43:36.391Z
+  last_success_at: 2026-11-27T03:43:36.391Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
